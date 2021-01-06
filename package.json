@@ -11,7 +11,7 @@
     "@react-native-community/masked-view": "0.1.10",
     "@react-navigation/native": "^5.7.1",
     "@types/react-redux": "^7.1.9",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo": "~38.0.8",
     "expo-status-bar": "^1.0.2",
     "react": "~16.11.0",
